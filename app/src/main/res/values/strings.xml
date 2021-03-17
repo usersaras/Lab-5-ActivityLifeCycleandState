@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TwoActivityLifeCycleCodingChallenge</string>
+    <string name="add_items">Add Items</string>
+    <string name="fruits">Fruits</string>
+    <string name="spices">Spices</string>
+    <string name="baking">Baking</string>
+    <string name="sauces">Sauces</string>
+    <string name="cereal">Cereal</string>
+    <string name="fish">Fish</string>
+    <string name="drinks">Drinks</string>
+    <string name="meat">Meat</string>
+    <string name="dairy">Dairy</string>
+    <string name="snacks">Snacks</string>
+    <string name="available_items">Available Items</string>
+    <string name="shopping_list">Your Shopping List</string>
+</resources>
